@@ -1,0 +1,705 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cApNetDemoPage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cApNetDemoPage.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\April\\IMG_20230420_062327.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\April\\IMG_20230420_062327.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\April\\IMG_20230429_192901.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\April\\IMG_20230429_192901.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\August\\20230821_154905.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\August\\20230821_154905.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\August\\20230821_154910.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\August\\20230821_154910.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\August\\20230821_155541.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\August\\20230821_155541.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\August\\20230821_155549.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\August\\20230821_155549.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Dezember\\IMG_20231210_160756.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Dezember\\IMG_20231210_160756.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Dezember\\IMG_20231213_135656.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Dezember\\IMG_20231213_135656.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Dezember\\IMG_20231214_094133.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Dezember\\IMG_20231214_094133.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Dezember\\IMG_20231214_123121.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Dezember\\IMG_20231214_123121.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Dezember\\IMG_20240112_120826.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Dezember\\IMG_20240112_120826.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Dezember\\IMG_20240112_231627.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Dezember\\IMG_20240112_231627.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Dezember\\IMG_20240127_113013.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Dezember\\IMG_20240127_113013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230211_001043.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230211_001043.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230211_001058.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230211_001058.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230211_001104.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230211_001104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230211_001111.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230211_001111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230213_074040.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230213_074040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230213_074050.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230213_074050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230213_074119.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230213_074119.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230213_112153.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230213_112153.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Februar\\IMG_20230228_075927.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Februar\\IMG_20230228_075927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\104318-forest-tianmen_mountain-vegetation-ecosystem-spruce_fir_forest-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\104318-forest-tianmen_mountain-vegetation-ecosystem-spruce_fir_forest-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\105354-resort-room-villa-arecales-estate-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\105354-resort-room-villa-arecales-estate-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\126929-blue-metropolis-skyscrapercity-city-urban_area-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\126929-blue-metropolis-skyscrapercity-city-urban_area-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\126985-sky-brooklyn-cityscape-song-bridge-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\126985-sky-brooklyn-cityscape-song-bridge-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127003-night-cable_stayed_bridge-city-skyline-horizon-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127003-night-cable_stayed_bridge-city-skyline-horizon-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127033-city-evening-blue-coast-midnight-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127033-city-evening-blue-coast-midnight-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127059-light-reflection-evening-lighting-city-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127059-light-reflection-evening-lighting-city-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127215-capital_city-town-street-light-city-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127215-capital_city-town-street-light-city-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127219-tower_block-architecture-video-capital_city-sky-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127219-tower_block-architecture-video-capital_city-sky-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127248-bridge-night-capital_city-singapore_flyer-urban_area-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127248-bridge-night-capital_city-singapore_flyer-urban_area-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127261-urban_area-night-light-infrastructure-minneapolis-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127261-urban_area-night-light-infrastructure-minneapolis-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\127276-sky-lake_kawaguchi-tower-mount_fuji-cloud-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\127276-sky-lake_kawaguchi-tower-mount_fuji-cloud-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\128552-autumn-tree-ray-sunlight-light-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\128552-autumn-tree-ray-sunlight-light-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\128713-old_growth_forest-woodland-fall_tree-landscape-nature-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\128713-old_growth_forest-woodland-fall_tree-landscape-nature-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\135022-cloud-music-sky-sunset-evening-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\135022-cloud-music-sky-sunset-evening-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\138502-blue-suspension_bridge-bridge-golden_gate_bridge-landmark-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\138502-blue-suspension_bridge-bridge-golden_gate_bridge-landmark-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\141554-sea-reflection-landmark-ocean-night-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\141554-sea-reflection-landmark-ocean-night-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\141618-dusk-cloud-sunset-water-sea-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\141618-dusk-cloud-sunset-water-sea-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\148021-reflection-skyscraper-city-night-river-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\148021-reflection-skyscraper-city-night-river-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\149862-mountainouslandforms-green-hill-sky-cloud-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\149862-mountainouslandforms-green-hill-sky-cloud-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\151517-birds_eye_view-cityscape-downtown-metropolis-hollywood-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\151517-birds_eye_view-cityscape-downtown-metropolis-hollywood-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\168434-waterfall-nature-water-river-landscape-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\168434-waterfall-nature-water-river-landscape-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\169887-city-building-purple-colored-skyline-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\169887-city-building-purple-colored-skyline-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\171091-woodland-tree-graphics-wood-natural_landscape-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\171091-woodland-tree-graphics-wood-natural_landscape-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\18492-city-cityscape-metropolitan_area-capital_city-the_hague-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\18492-city-cityscape-metropolitan_area-capital_city-the_hague-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\20856-cityscape-san_diego-skyscraper-skyline-new_york_city-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\20856-cityscape-san_diego-skyscraper-skyline-new_york_city-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\21808-watercourse-chute-river-body_of_water-tourist_attraction-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\21808-watercourse-chute-river-body_of_water-tourist_attraction-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\22012-cityscape-urban_area-water-city-reflection-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\22012-cityscape-urban_area-water-city-reflection-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\22770-brooklyn_bridge-bridge-twilight-urban_area-metropolis-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\22770-brooklyn_bridge-bridge-twilight-urban_area-metropolis-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\85653-world_trade_center-cityscape-city-landmark-reflection-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\85653-world_trade_center-cityscape-city-landmark-reflection-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\87164-urban_area-horizon-skyline-sky-landmark-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\87164-urban_area-horizon-skyline-sky-landmark-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\88272-water-bridge-purple-cityscape-reflection-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\88272-water-bridge-purple-cityscape-reflection-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\89577-london-urban_area-horizon-city_hall_london-cityscape-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\89577-london-urban_area-horizon-city_hall_london-cityscape-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\89917-positano-mount_scenery-water-city-sorrento-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\89917-positano-mount_scenery-water-city-sorrento-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\90540-horizon-metropolis-city-skyscraper-urban_area-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\90540-horizon-metropolis-city-skyscraper-urban_area-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\92115-mural-bar-cafe-night-town-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\92115-mural-bar-cafe-night-town-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\92434-tourist_attraction-sky-grand_canal-reflection-waterway-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\92434-tourist_attraction-sky-grand_canal-reflection-waterway-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\92493-moat-neuschwanstein_castle-water_castle-waterway-sky-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\92493-moat-neuschwanstein_castle-water_castle-waterway-sky-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\IMG_20230123_162416.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\IMG_20230123_162416.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\IMG_20230123_162530.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\IMG_20230123_162530.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\IMG_20230123_162812.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\IMG_20230123_162812.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\IMG_20230123_162933.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\IMG_20230123_162933.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\chicago-city-waterfall-8k-x1-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\chicago-city-waterfall-8k-x1-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\toyosu-market-and-ginza-skyline-8k-sh-7680x4320.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\toyosu-market-and-ginza-skyline-8k-sh-7680x4320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\wallpapersden.com_hong-kong-4k-city-photography_5120x2880.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\wallpapersden.com_hong-kong-4k-city-photography_5120x2880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\wallpapersden.com_hong-kong-5k-skyscraper-cityscape_5120x2880.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\wallpapersden.com_hong-kong-5k-skyscraper-cityscape_5120x2880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\wallpapersden.com_seoul-5k-city_5120x2880.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\wallpapersden.com_seoul-5k-city_5120x2880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\wp4473738-5120x1440-wallpapers.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\wp4473738-5120x1440-wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\wp4473741-5120x1440-wallpapers.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\wp4473741-5120x1440-wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Januar\\wp7786783-5120x1440-wallpapers.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Januar\\wp7786783-5120x1440-wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Juni\\20230614_203724.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Juni\\20230614_203724.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Juni\\20230621_223301.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Juni\\20230621_223301.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Juni\\20230626_122904.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Juni\\20230626_122904.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Juni\\20230626_122916.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Juni\\20230626_122916.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230507_095822.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230507_095822.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230507_132330.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230507_132330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230507_133728.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230507_133728.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230507_144509.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230507_144509.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230511_170538.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230511_170538.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230511_170559.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230511_170559.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230511_170603.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230511_170603.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230511_201201.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230511_201201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\20230511_201205.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\20230511_201205.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\IMG_20230504_163328.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\IMG_20230504_163328.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\Mai\\IMG_20230504_163337.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\Mai\\IMG_20230504_163337.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230303_181712.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230303_181712.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230303_200345.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230303_200345.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230304_094812.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230304_094812.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230307_085345.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230307_085345.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230307_091859.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230307_091859.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230308_083945.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230308_083945.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230312_110831.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230312_110831.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230315_064246.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230315_064246.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\März\\IMG_20230315_094250.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\März\\IMG_20230315_094250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20230907_120546.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20230907_120546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20230908_191517.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20230908_191517.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20230909_160517.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20230909_160517.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20230916_144734.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20230916_144734.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20230918_133314.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20230918_133314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20230920_140450.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20230920_140450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20230920_170144.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20230920_170144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2023\\September\\20231025_132659.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2023\\September\\20231025_132659.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2024\\Februar\\IMG_20240206_044825.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2024\\Februar\\IMG_20240206_044825.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2024\\Januar\\IMG_20240112_120826.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2024\\Januar\\IMG_20240112_120826.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2024\\Januar\\IMG_20240112_231627.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2024\\Januar\\IMG_20240112_231627.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Google Photos\\2024\\Januar\\IMG_20240127_113013.jpg",
+      "PackagePath": "staticwebassets\\Google Photos\\2024\\Januar\\IMG_20240127_113013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\Images\\cc-logo.png",
+      "PackagePath": "staticwebassets\\Images\\cc-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\js\\darkmode.js",
+      "PackagePath": "staticwebassets\\js\\darkmode.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.cApNetDemoPage.props",
+      "PackagePath": "build\\cApNetDemoPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.cApNetDemoPage.props",
+      "PackagePath": "buildMultiTargeting\\cApNetDemoPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.cApNetDemoPage.props",
+      "PackagePath": "buildTransitive\\cApNetDemoPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.cApNetDemoPage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

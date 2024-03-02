@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<h1>YouTube Streams</h1>
+
+<br />
+
+<h2>Playlist</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title">YouTube Streams</h4>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="text-primary">
+                            <th>
+                                Stream Name
+                            </th>
+                            <th>
+                                Stream URL
+                            </th>
+                            <th>
+                                Stream Key
+                            </th>
+                            <th>
+                                Stream Status
+                            </th>
+                            <th>
+                                Action
+                            </th>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.StreamName
+                                    </td>
+                                    <td>
+                                        @item.StreamURL
+                                    </td>
+                                    <td>
+                                        @item.StreamKey
+                                    </td>
+                                    <td>
+                                        @item.StreamStatus
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("Edit", "YouTube", new { id = item.StreamID })" class="btn btn-primary">Edit</a>
+                                        <a href="@Url.Action("Delete", "YouTube", new { id = item.StreamID })" class="btn btn-danger">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>

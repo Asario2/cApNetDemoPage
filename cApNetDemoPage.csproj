@@ -1,0 +1,129 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-cApNetDemoPage-542443c9-931b-4edb-9409-4c844eb3caa8</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Google Photos\2023\April\IMG_20230420_062327.jpg" />
+    <None Include="wwwroot\Google Photos\2023\April\IMG_20230429_192901.jpg" />
+    <None Include="wwwroot\Google Photos\2023\August\20230821_154905.jpg" />
+    <None Include="wwwroot\Google Photos\2023\August\20230821_154910.jpg" />
+    <None Include="wwwroot\Google Photos\2023\August\20230821_155541.jpg" />
+    <None Include="wwwroot\Google Photos\2023\August\20230821_155549.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Dezember\IMG_20231210_160756.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Dezember\IMG_20231213_135656.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Dezember\IMG_20231214_094133.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Dezember\IMG_20231214_123121.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Dezember\IMG_20240112_120826.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Dezember\IMG_20240112_231627.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Dezember\IMG_20240127_113013.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230211_001043.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230211_001058.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230211_001104.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230211_001111.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230213_074040.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230213_074050.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230213_074119.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230213_112153.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Februar\IMG_20230228_075927.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\104318-forest-tianmen_mountain-vegetation-ecosystem-spruce_fir_forest-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\105354-resort-room-villa-arecales-estate-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\126929-blue-metropolis-skyscrapercity-city-urban_area-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\126985-sky-brooklyn-cityscape-song-bridge-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127003-night-cable_stayed_bridge-city-skyline-horizon-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127033-city-evening-blue-coast-midnight-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127059-light-reflection-evening-lighting-city-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127215-capital_city-town-street-light-city-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127219-tower_block-architecture-video-capital_city-sky-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127248-bridge-night-capital_city-singapore_flyer-urban_area-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127261-urban_area-night-light-infrastructure-minneapolis-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\127276-sky-lake_kawaguchi-tower-mount_fuji-cloud-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\128552-autumn-tree-ray-sunlight-light-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\128713-old_growth_forest-woodland-fall_tree-landscape-nature-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\135022-cloud-music-sky-sunset-evening-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\138502-blue-suspension_bridge-bridge-golden_gate_bridge-landmark-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\141554-sea-reflection-landmark-ocean-night-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\141618-dusk-cloud-sunset-water-sea-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\148021-reflection-skyscraper-city-night-river-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\149862-mountainouslandforms-green-hill-sky-cloud-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\151517-birds_eye_view-cityscape-downtown-metropolis-hollywood-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\168434-waterfall-nature-water-river-landscape-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\169887-city-building-purple-colored-skyline-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\171091-woodland-tree-graphics-wood-natural_landscape-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\18492-city-cityscape-metropolitan_area-capital_city-the_hague-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\20856-cityscape-san_diego-skyscraper-skyline-new_york_city-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\21808-watercourse-chute-river-body_of_water-tourist_attraction-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\22012-cityscape-urban_area-water-city-reflection-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\22770-brooklyn_bridge-bridge-twilight-urban_area-metropolis-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\85653-world_trade_center-cityscape-city-landmark-reflection-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\87164-urban_area-horizon-skyline-sky-landmark-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\88272-water-bridge-purple-cityscape-reflection-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\89577-london-urban_area-horizon-city_hall_london-cityscape-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\89917-positano-mount_scenery-water-city-sorrento-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\90540-horizon-metropolis-city-skyscraper-urban_area-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\92115-mural-bar-cafe-night-town-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\92434-tourist_attraction-sky-grand_canal-reflection-waterway-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\92493-moat-neuschwanstein_castle-water_castle-waterway-sky-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\chicago-city-waterfall-8k-x1-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\IMG_20230123_162416.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\IMG_20230123_162530.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\IMG_20230123_162812.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\IMG_20230123_162933.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\toyosu-market-and-ginza-skyline-8k-sh-7680x4320.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\wallpapersden.com_hong-kong-4k-city-photography_5120x2880.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\wallpapersden.com_hong-kong-5k-skyscraper-cityscape_5120x2880.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\wallpapersden.com_seoul-5k-city_5120x2880.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\wp4473738-5120x1440-wallpapers.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\wp4473741-5120x1440-wallpapers.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Januar\wp7786783-5120x1440-wallpapers.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Juni\20230614_203724.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Juni\20230621_223301.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Juni\20230626_122904.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Juni\20230626_122916.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230507_095822.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230507_132330.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230507_133728.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230507_144509.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230511_170538.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230511_170559.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230511_170603.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230511_201201.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\20230511_201205.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\IMG_20230504_163328.jpg" />
+    <None Include="wwwroot\Google Photos\2023\Mai\IMG_20230504_163337.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230303_181712.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230303_200345.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230304_094812.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230307_085345.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230307_091859.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230308_083945.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230312_110831.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230315_064246.jpg" />
+    <None Include="wwwroot\Google Photos\2023\März\IMG_20230315_094250.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20230907_120546.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20230908_191517.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20230909_160517.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20230916_144734.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20230918_133314.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20230920_140450.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20230920_170144.jpg" />
+    <None Include="wwwroot\Google Photos\2023\September\20231025_132659.jpg" />
+    <None Include="wwwroot\Google Photos\2024\Februar\IMG_20240206_044825.jpg" />
+    <None Include="wwwroot\Google Photos\2024\Januar\IMG_20240112_120826.jpg" />
+    <None Include="wwwroot\Google Photos\2024\Januar\IMG_20240112_231627.jpg" />
+    <None Include="wwwroot\Google Photos\2024\Januar\IMG_20240127_113013.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.27" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.27" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.27" />
+  </ItemGroup>
+
+</Project>

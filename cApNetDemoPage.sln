@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cApNetDemoPage", "cApNetDemoPage.csproj", "{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3FCEB46-B58B-4AA1-BA34-D2A808830C8C}
+	EndGlobalSection
+EndGlobal

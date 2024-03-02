@@ -1,0 +1,216 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.toggle-container {
+    position: fixed;
+    top: 7px;
+    right: 50px;
+    cursor: pointer;
+}
+
+/* dark mode */
+
+body {
+    background-color: white;
+}
+
+header {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+img {
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* social icons */
+
+.social-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: -42px;
+    margin-left: 150px;
+}
+
+.social-wrapper i {
+    color: #171717;
+    cursor: pointer;
+    transition: all ease-in-out 150ms;
+    text-shadow: 0px 7px 10px rgba(0, 0, 0, 0.7);
+}
+
+.social-wrapper i:hover {
+     margin-top: -5px;
+     transform: translate(0, -8);
+}
+
+/* normal */
+
+#microsoft {
+    padding-left: 80px;
+    color: #808080;
+}
+
+#x-twitter {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#github {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#xbox {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#applepay {
+    padding-left: 30px;
+    color: #808080;
+}
+
+#gpay {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#paypal {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#mastercard {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#visa {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#spotify {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#youtube {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#telegram {
+    padding-left: 40px;
+    color: #808080;
+}
+
+#email {
+    padding-left: 40px;
+    color: #808080;
+}
+
+/* hover */
+
+#microsoft:hover {
+    color: #258cfb;
+    transition: 0.4s;
+}
+
+#x-twitter:hover {
+    color: #003087;
+    transition: 0.4s;
+}
+
+#github:hover {
+    color: #000000;
+    transition: 0.4s;
+}
+
+#xbox:hover {
+    color: #107c10;
+    transition: 0.4s;
+}
+
+#gpay:hover {
+    color: #c9510c;
+    transition: 0.4s;
+}
+
+#applepay:hover {
+    color: #ffd800;
+    transition: 0.4s;
+}
+
+#paypal:hover {
+    color: #003087;
+    transition: 0.4s;
+}
+
+#mastercard:hover {
+    color: #ff6a00;
+    transition: 0.4s;
+}
+
+#visa:hover {
+    color: #003399;
+    transition: 0.4s;
+}
+
+#spotify :hover {
+    color: #4cff00;
+    transition: 0.4s;
+}
+
+#youtube:hover {
+    color: #FF0000;
+    transition: 0.4s;
+}
+
+#telegram:hover {
+    color: #0088cc;
+    transition: 0.4s;
+}
+
+#email:hover {
+    color: #b200ff;
+    transition: 0.4s;
+}
