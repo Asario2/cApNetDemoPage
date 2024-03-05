@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cApNetDemoPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf8a22a65525a7db451717cfcdd556399db162d")]
 [assembly: System.Reflection.AssemblyProductAttribute("cApNetDemoPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cApNetDemoPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

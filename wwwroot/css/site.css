@@ -1,11 +1,11 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
@@ -13,8 +13,8 @@ html {
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
@@ -26,6 +26,12 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.right {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
 }
 
 .toggle-container {
@@ -43,13 +49,13 @@ body {
 
 header {
     text-align: center;
-    color: rgb(0, 0, 0);
+    /*    color: rgb(0, 0, 0); */
 }
 
 p {
     text-align: center;
     font-size: 20px;
-    color: black;
+    color: white;
 }
 
 img {
@@ -69,17 +75,17 @@ img {
     margin-left: 150px;
 }
 
-.social-wrapper i {
-    color: #171717;
-    cursor: pointer;
-    transition: all ease-in-out 150ms;
-    text-shadow: 0px 7px 10px rgba(0, 0, 0, 0.7);
-}
+    .social-wrapper i {
+        color: #171717;
+        cursor: pointer;
+        transition: all ease-in-out 150ms;
+        text-shadow: 0px 7px 10px rgba(0, 0, 0, 0.7);
+    }
 
-.social-wrapper i:hover {
-     margin-top: -5px;
-     transform: translate(0, -8);
-}
+        .social-wrapper i:hover {
+            margin-top: -5px;
+            transform: translate(0, -8);
+        }
 
 /* normal */
 

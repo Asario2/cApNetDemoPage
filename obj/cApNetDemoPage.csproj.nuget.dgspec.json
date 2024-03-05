@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\cApNetDemoPage.csproj": {}
+    "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\cApNetDemoPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\cApNetDemoPage.csproj": {
+    "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\cApNetDemoPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\cApNetDemoPage.csproj",
+        "projectUniqueName": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\cApNetDemoPage.csproj",
         "projectName": "cApNetDemoPage",
-        "projectPath": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\cApNetDemoPage.csproj",
-        "packagesPath": "C:\\Users\\secu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\obj\\",
+        "projectPath": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\cApNetDemoPage.csproj",
+        "packagesPath": "C:\\Users\\GGX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\secu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GGX\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,6 +69,18 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.27, )"
+            },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[6.34.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.34.0, )"
             }
           },
           "imports": [

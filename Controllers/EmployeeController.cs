@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿
+using Microsoft.AspNetCore.Mvc;
+using data.employee;
 
 namespace cApNetDemoPage.Controllers
 {

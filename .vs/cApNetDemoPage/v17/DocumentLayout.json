@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\",
+  "WorkspaceRootPath": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\secu\\source\\repos\\project@work\\capnetdemopage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\ggx\\source\\repos\\capnetdemopage\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\ggx\\source\\repos\\capnetdemopage\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\ggx\\source\\repos\\capnetdemopage\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\ggx\\source\\repos\\capnetdemopage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\ggx\\source\\repos\\capnetdemopage\\views\\home\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:views\\home\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\ggx\\source\\repos\\capnetdemopage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\secu\\source\\repos\\project@work\\capnetdemopage\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|c:\\users\\secu\\source\\repos\\project@work\\capnetdemopage\\views\\pictures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA8749EB-A788-4F7B-9F58-B154D2FB1FFD}|cApNetDemoPage.csproj|solutionrelative:views\\pictures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,41 +54,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\Views\\Pictures\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pictures\\Index.cshtml",
-              "ToolTip": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\Views\\Pictures\\Index.cshtml",
-              "RelativeToolTip": "Views\\Pictures\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAzwCEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T12:49:03.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAzwJEAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-29T16:59:28.558Z",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:22:16.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\secu\\source\\repos\\project@work\\cApNetDemoPage\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:20:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-01T13:51:21.091Z",
+              "WhenOpened": "2024-03-04T18:17:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T18:17:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Start.cshtml",
+              "DocumentMoniker": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Home\\Start.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Start.cshtml",
+              "ToolTip": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Home\\Start.cshtml",
+              "RelativeToolTip": "Views\\Home\\Start.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T18:17:18.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GGX\\source\\repos\\cApNetDemoPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T18:22:36.966Z",
               "EditorCaption": ""
             }
           ]

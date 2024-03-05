@@ -25,10 +25,15 @@ a[b-l43pf8jq97] {
 }
 
 .border-top[b-l43pf8jq97] {
-  border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;dotnet
+}
+.border-top-bottom[b-l43pf8jq97] {
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
 }
 .border-bottom[b-l43pf8jq97] {
-  border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
 }
 
 .box-shadow[b-l43pf8jq97] {
